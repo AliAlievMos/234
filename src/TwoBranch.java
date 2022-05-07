@@ -1,6 +1,6 @@
 public class TwoBranch {
     public static void main (String[] args){
-        System.out.println("мы домА: как роща в четверг тяжела!\n" +
+        System.out.println("мы дОма: как роща в четверг тяжела!\n" +
                 "ворона снимает два белых крыла\n" +
                 "и всем предлагает; никто не берёт\n" +
                 "один только ангел выходит вперёд\n" +
